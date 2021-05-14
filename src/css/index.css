@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Press+Start+2P&family=Quicksand&display=swap');
+body{
+    background-color: rgba(68, 252, 215, 99);
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    background-color: rgba(68, 95, 252, 99);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px auto;
+}
+div{
+    background-color: rgba(79, 191, 245, 96);
+    padding: 10px;
+    border-radius: 10px;
+    min-height: 800px;
+}
+h2, h3, h4{
+    font-family: 'Open Sans', sans-serif;
+    margin: 15px auto;
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+    text-align: justify;
+}
+img#slideLayout{
+    display: block;
+    max-width: 800px;
+    min-width: 300px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+button{
+    font-family: 'Open Sans', sans-serif;
+    border: none;
+    border-radius: 50px;
+    background-color: rgba(60, 127, 222, 87);
+}
